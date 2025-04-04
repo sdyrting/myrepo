@@ -2,7 +2,7 @@
 title: "Hello RMarkdown"
 author: "Sigurd Dyrting"
 date: "`r Sys.Date()`"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
